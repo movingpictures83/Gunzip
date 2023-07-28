@@ -1,0 +1,2 @@
+Prefix plugins/Gunzip/example/
+Plugin Gunzip inputfile input.fastq.gz outputfile input.fastq
